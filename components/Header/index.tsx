@@ -1,5 +1,5 @@
 import React from 'react'
-import style from './Header.module.scss';
+import style from './header.module.scss';
 
 type Props = {}
 
